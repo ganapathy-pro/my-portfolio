@@ -1,2 +1,2 @@
-# my-portfolio
-This is my professional portfolio
+# Ganapathy's Portfolio
+My professional portfolio will be built using AWS and ReactJS
